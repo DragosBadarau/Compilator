@@ -1,0 +1,67 @@
+functie string #test( int #parametru1, int #orice, int #testare)
+{
+ Eval ( 7 + 3 - 4 * 1 )
+}
+
+functie string #test( bool #altparametru, char #a, string #l)
+{
+ Eval ( 10 * 14 / 2 )
+}
+functie char #test (char #cerinte)
+{
+ 
+}
+clasa object #repede
+{
+   bool #incercare;
+   char #c = 'c';
+   int #valoare;
+   string #nume = "cineva";
+   array #multime = [];
+   array #altamultime = ["ceva",0, "altceva",48, #numar,88];
+}
+functie int #merge( char #sta, int #culcat) 
+{
+   #test (int #cartofi, int #morcovi, int #patrunjel)
+   #test (char #rosii)
+   char #total='k';
+}
+clasa object #info
+{
+   int #CS;
+}
+   
+functie int #shop(int #dorinte)
+{
+   int #nevoi=100;
+   int #bani=180;
+   int #da;
+   string #retine="cadou";
+   int #altele;
+   #altele=#bani-#nevoi;
+
+    if( false || true)
+    {
+      int #orice;
+      #orice=14;
+        if( #orice<1000 )
+        { 
+            for(#i;#i<3;#i=#i+1;)
+            {
+              
+               #bani = #bani * 2;
+            }
+        } 
+        else
+        {
+            while( #nevoi >= 10 )
+            {
+               #nevoi = #nevoi - 10;
+            }
+        }
+     }
+} 
+functie bool #adevar (int #posibil, char #imposibil)
+{
+   #shop (int #probabil)
+}
